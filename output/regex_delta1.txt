@@ -1,0 +1,4 @@
+ab*a|b
+ab*a|b a ab*a|b b
+ab*a|b b ab*a|b a
+(((ab*a|b){1})(a|b){0,1})+
